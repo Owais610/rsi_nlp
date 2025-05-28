@@ -45,12 +45,12 @@ Each entry is a dictionary with:
 }
 ```
 
- Field                                     Description 
-
-`text`                                     Preprocessed and tokenized version of the post 
-`label`                                    Labeled issue category |
-`sentiment`                                Sentiment score (float, from -1 to 1) 
-`urgent`                                   Boolean flag indicating urgency 
+| Field       | Description                                    |
+| ----------- | ---------------------------------------------- |
+| `text`      | Preprocessed and tokenized version of the post |
+| `label`     | Labeled issue category                         |
+| `sentiment` | Sentiment score (float, from -1 to 1)          |
+| `urgent`    | Boolean flag indicating urgency                |
 
 ---
 
