@@ -21,14 +21,15 @@ Each Reddit post has been preprocessed and labeled under one of the following is
 
 ### CSV File (`reddit_social_issues_cleaned.csv`)
 
-  Column                                     Description 
-`issue`                                      Assigned category label 
-`subreddit`                                  Source subreddit 
-`title`                                      Post title
-`post_text`                                  Body of the post 
-`created_utc`                                Timestamp 
-`url`                                        Source URL
-`keyword`                                    Extracted keyword used in labeling 
+| Column | Description |
+|--------|-------------|
+| `issue` | Assigned category label |
+| `subreddit` | Source subreddit |
+| `title` | Post title |
+| `post_text` | Body of the post |
+| `created_utc` | Timestamp |
+| `url` | Source URL |
+| `keyword` | Extracted keyword used in labeling |
 
 ### JSON File (`preprocessed_reddit_social_issues_cleaned.json`)
 
