@@ -5,8 +5,10 @@ This dataset captures Reddit user discussions related to social infrastructure i
 ---
 
 ## 📁 Files Included
-`reddit_social_issues_cleaned.csv`:                  Cleaned, labeled dataset with structured Reddit posts and metadata 
-`preprocessed_reddit_social_issues_cleaned.json`:    Tokenized version of the dataset, ready for transformer-based NLP models (e.g., BERT) |
+| File | Description |
+|------|-------------|
+| `reddit_social_issues_cleaned.csv` | Cleaned, labeled dataset with structured Reddit posts and metadata |
+| `preprocessed_reddit_social_issues_cleaned.json` | Tokenized version of the dataset, ready for transformer-based NLP models (e.g., BERT) |
 
 ---
 
