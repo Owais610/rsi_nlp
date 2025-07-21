@@ -98,5 +98,12 @@ Please ensure compliance with Reddit’s [API Terms of Use](https://www.redditin
 
 ## 👤 Author
 
-Prepared by:    Owais Ali Khan                        and                                    Haseeb Ahmed  
-Contact:        awais.ali.khan610@gmail.com                                                  engr.haseebahmed103332@gmail.com
+Prepared by:    
+Owais Ali Khan
+awais.ali.khan610@gmail.com
+
+Sabeen Masood
+sabeen.masood@cust.edu.pk
+
+Haseeb Ahmed
+engr.haseebahmed103332@gmail.com
